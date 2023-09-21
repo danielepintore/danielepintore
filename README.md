@@ -2,7 +2,9 @@
   
 # 💫About Me :
 Hi, I'm Daniele! I'm a student at Univerisity of Cagliari and I love Open Source projects.
-  
+
+🚩 CTF player at Srdnlen 
+
 🌱 I’m currently learning : **Rust**
 
 💬 Ask me about for any help
